@@ -1,0 +1,6 @@
+{
+    "imposters": [
+        <% include imposters01.json %>,
+        <% include imposters02.json %>     
+    ]
+}
